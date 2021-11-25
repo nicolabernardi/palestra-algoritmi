@@ -9,6 +9,7 @@ Vi invito caldamente a provare prima da soli a risolvere il problema, e dare un 
 In tal caso, potete anche mandarmi una mail (nicola.bernardi-2@studenti.unitn.it), e sicuramente nell'incontro successivo riprenderemo l'esercizio.
 
 ## Primo incontro - 25/11/2021
+- [Slide](PalestraAlgo1.pdf)
 - Esercizi base su vettori e matrici
 - Iscrizione alla piattaforma per gli allenamenti (se non l'avete ancora fatto, fatelo subito: https://training.olinfo.it/#/signup)
 - Esercizio [Easy1](https://training.olinfo.it/#/task/easy1/statement)
