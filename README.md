@@ -12,6 +12,7 @@ In tal caso, potete anche mandarmi una mail (nicola.bernardi-2@studenti.unitn.it
 - [Slides](PalestraAlgo1.pdf)
 - Esercizi base su vettori e matrici
 - Iscrizione alla piattaforma per gli allenamenti (se non l'avete ancora fatto, fatelo subito: https://training.olinfo.it/#/signup)
+- Input e Output su file in C++ (vedi questo [esempio](i-o-file.cpp))
 - Esercizio [Easy1](https://training.olinfo.it/#/task/easy1/statement)
 - Esercizio [Easy2](https://training.olinfo.it/#/task/easy2/statement)
 - Esercizio [Easy3](https://training.olinfo.it/#/task/easy3/statement)
