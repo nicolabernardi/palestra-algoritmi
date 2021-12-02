@@ -27,6 +27,7 @@ In tal caso, potete anche mandarmi una mail (nicola.bernardi-2@studenti.unitn.it
 
 
 ## 3° incontro - 09/12/2021 15-17
+- [Slides](PalestraAlgo3.pdf) (da caricare dopo l'incontro)
 - Funzioni e ricorsione
 - Esercizio [Easy3](https://training.olinfo.it/#/task/easy3/statement)
 - Esercizio [Piastrelle](https://training.olinfo.it/#/task/piastrelle/statement)
