@@ -20,6 +20,7 @@ In tal caso, potete anche mandarmi una mail (nicola.bernardi-2@studenti.unitn.it
 ## 2° incontro - 02/12/2021 17-19
 - [Slides](PalestraAlgo2.pdf)
 - Esercizio [Easy3](https://training.olinfo.it/#/task/easy3/statement)
+- Funzioni e ricorsione
 - Esercizio [Collatz](https://training.olinfo.it/#/task/collatz/statement)
 - Esercizio [Fluttuazioni finanziarie](https://training.olinfo.it/#/task/luiss_azioni/statement)
 - Esercizio [Pollatz](https://training.olinfo.it/#/task/gator_pcollatz/statement)
