@@ -25,3 +25,5 @@ In tal caso, potete anche mandarmi una mail (nicola.bernardi-2@studenti.unitn.it
 - Esercizio [Pollatz](https://training.olinfo.it/#/task/gator_pcollatz/statement)
 - Esercizio [Totò](https://training.olinfo.it/#/task/spartizione/statement)
 - Esercizio [Tesla](https://training.olinfo.it/#/task/gator_tesla/statement)
+
+## Terzo incontro - 09/12/2021 15-17
