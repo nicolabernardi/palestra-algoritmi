@@ -8,7 +8,7 @@ In base agli esercizi visti, vengono caricate anche le soluzioni, nella relativa
 Vi invito caldamente a provare prima da soli a risolvere il problema, e dare un occhio alle soluzioni quando, dopo vari tentativi, non riuscite a venirne fuori.
 In tal caso, potete anche mandarmi una mail (nicola.bernardi-2@studenti.unitn.it), e sicuramente nell'incontro successivo riprenderemo l'esercizio.
 
-## Primo incontro - 25/11/2021 15-17
+## 1° incontro - 25/11/2021 15-17
 - [Slides](PalestraAlgo1.pdf)
 - Esercizi base su vettori e matrici
 - Iscrizione alla piattaforma per gli allenamenti (se non l'avete ancora fatto, fatelo subito: https://training.olinfo.it/#/signup)
@@ -17,7 +17,7 @@ In tal caso, potete anche mandarmi una mail (nicola.bernardi-2@studenti.unitn.it
 - Esercizio [Easy2](https://training.olinfo.it/#/task/easy2/statement)
 - Esercizio [Easy3](https://training.olinfo.it/#/task/easy3/statement)
 
-## Secondo incontro - 02/12/2021 17-19
+## 2° incontro - 02/12/2021 17-19
 - [Slides](PalestraAlgo2.pdf)
 - Esercizio [Easy3](https://training.olinfo.it/#/task/easy3/statement)
 - Esercizio [Collatz](https://training.olinfo.it/#/task/collatz/statement)
@@ -26,4 +26,4 @@ In tal caso, potete anche mandarmi una mail (nicola.bernardi-2@studenti.unitn.it
 - Esercizio [Totò](https://training.olinfo.it/#/task/spartizione/statement)
 - Esercizio [Tesla](https://training.olinfo.it/#/task/gator_tesla/statement)
 
-## Terzo incontro - 09/12/2021 15-17
+## 3° incontro - 09/12/2021 15-17
