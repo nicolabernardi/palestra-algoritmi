@@ -31,14 +31,14 @@ In tal caso, potete anche mandarmi una mail (nicola.bernardi-2@studenti.unitn.it
 - Funzioni e ricorsione
 - Ordinare un vettore: 
 
-   ```int cmpfunc (const void * a, const void * b) {
+   int cmpfunc (const void * a, const void * b) {
       return ( *(int*)a - *(int*)b );
    }
 
    int vettore[N];
 
    //ordina il vettore
-   qsort(sequenza, n, sizeof(int), cmpfunc);```
+   qsort(sequenza, n, sizeof(int), cmpfunc);
 
 
 - Esercizio [Easy3](https://training.olinfo.it/#/task/easy3/statement)
