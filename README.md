@@ -29,5 +29,17 @@ In tal caso, potete anche mandarmi una mail (nicola.bernardi-2@studenti.unitn.it
 ## 3° incontro - 09/12/2021 15-17
 - [Slides](PalestraAlgo3.pdf) (da caricare dopo l'incontro)
 - Funzioni e ricorsione
+- Ordinare un vettore: ```
+
+int cmpfunc (const void * a, const void * b) {
+   return ( *(int*)a - *(int*)b );
+}
+
+int vettore[N];
+
+//ordina il vettore
+qsort(sequenza, n, sizeof(int), cmpfunc);
+
+```
 - Esercizio [Easy3](https://training.olinfo.it/#/task/easy3/statement)
 - Esercizio [Piastrelle](https://training.olinfo.it/#/task/piastrelle/statement)
