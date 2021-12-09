@@ -31,7 +31,7 @@ In tal caso, potete anche mandarmi una mail (nicola.bernardi-2@studenti.unitn.it
 - Funzioni e ricorsione
 - Ordinare un vettore: 
 
-   ```
+   ```c
    int cmpfunc (const void * a, const void * b) {
       return ( *(int*)a - *(int*)b );
    }
