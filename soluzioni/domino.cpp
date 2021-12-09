@@ -2,12 +2,13 @@
 
 using namespace std;
 
-#define MAX_N 10
+#define MAX_N 10  //numero massimo di tessere, preso dal testo del problema
 
-bool usate[MAX_N];
-int v[MAX_N][2];
-int N;
-int M;
+//dati
+bool usate[MAX_N]; //vettore che mi dice se nella sequenza ho già usato la tessera i-esima
+int v[MAX_N][2]; //qui salvo le tessere: per ciascuna ho due estremità
+int N; //numero effettivo di tessere
+int M; //massima lunghezza della sequenza di tessere
 
 void solve(int tessera, int len) {
 	if(len > M) M = len; //aggiorno la lunghezza massima che ho trovato finora
