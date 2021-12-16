@@ -26,6 +26,6 @@ int main(){
     }
     
     ofstream out("output.txt");
-    out << max_discesa(0,0, N, piramide, 0); //ciascun vino ha gradazione > 0
+    out << max_discesa(0,0, N, piramide, 0);
     out.close();
 }
