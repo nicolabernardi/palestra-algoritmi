@@ -65,9 +65,13 @@ In tal caso, potete anche mandarmi una mail (nicola.bernardi-2@studenti.unitn.it
 ## 6° incontro - 20/01/2022 15-17
 
 ## 7° incontro - 27/01/2022 15-17
+- Grafi
 
 ## 8° incontro - 03/01/2022 15-17
+- Grafi
 
 ## 9° incontro - 10/02/2022 15-17
+- Esercizi misti
 
 ## 10° incontro - 17/02/2022 15-17 - GARA
+- Simuliamo una gara
