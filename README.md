@@ -60,6 +60,7 @@ In tal caso, potete anche mandarmi una mail (nicola.bernardi-2@studenti.unitn.it
 - Esercizio [Cubetti](https://training.olinfo.it/#/task/cubetti/statement)
 - Esercizio [Sommelier](https://training.olinfo.it/#/task/sommelier/statement)
 - Esercizio [Discesa](https://training.olinfo.it/#/task/discesa/statement)
+- Memoization
 
 ## 6° incontro - 20/01/2022 15-17
 
