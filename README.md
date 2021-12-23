@@ -54,9 +54,19 @@ In tal caso, potete anche mandarmi una mail (nicola.bernardi-2@studenti.unitn.it
 - Esercizio [Domino](https://training.olinfo.it/#/task/domino/statement)
 
 
-## 5° incontro - 23/12/2021 15-17
+## 5° incontro - 13/01/2022 15-17
 - [Slides](PalestraAlgo5.pdf) (da caricare dopo l'incontro)
 - Esercizio [Domino](https://training.olinfo.it/#/task/domino/statement)
 - Esercizio [Cubetti](https://training.olinfo.it/#/task/cubetti/statement)
 - Esercizio [Sommelier](https://training.olinfo.it/#/task/sommelier/statement)
 - Esercizio [Discesa](https://training.olinfo.it/#/task/discesa/statement)
+
+## 6° incontro - 20/01/2022 15-17
+
+## 7° incontro - 27/01/2022 15-17
+
+## 8° incontro - 03/01/2022 15-17
+
+## 9° incontro - 10/02/2022 15-17
+
+## 10° incontro - 17/02/2022 15-17 - GARA
