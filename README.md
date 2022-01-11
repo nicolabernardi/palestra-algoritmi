@@ -70,4 +70,5 @@ In tal caso, potete anche mandarmi una mail (nicola.bernardi-2@studenti.unitn.it
 ## 8° incontro - 03/01/2022 15-17
 - Grafi
 
-## Gara Olimpiadi Informatica - 08/02/2022
+## Gara Olimpiadi Informatica - 08/02/2022 11-12:30
+- Iscriviti qui: https://scolastica.olinfo.it/
