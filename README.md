@@ -55,19 +55,20 @@ In tal caso, potete anche mandarmi una mail (nicola.bernardi-2@studenti.unitn.it
 
 
 ## 5° incontro - 13/01/2022 15-17
-- [Slides](PalestraAlgo5.pdf) (da caricare dopo l'incontro)
+- [Slides](PalestraAlgo5.pdf)
 - Esercizio [Domino](https://training.olinfo.it/#/task/domino/statement)
 - Esercizio [Cubetti](https://training.olinfo.it/#/task/cubetti/statement)
+
+## 6° incontro - 20/01/2022 15:30-17:30
+- [Slides](PalestraAlgo6.pdf) (da caricare dopo l'incontro)
 - Esercizio [Sommelier](https://training.olinfo.it/#/task/sommelier/statement)
 - Esercizio [Discesa](https://training.olinfo.it/#/task/discesa/statement)
 - Memoization
 
-## 6° incontro - 20/01/2022 15-17
-
-## 7° incontro - 27/01/2022 15-17
+## 7° incontro - 27/01/2022 15:30-17:30
 - Grafi
 
-## 8° incontro - 03/01/2022 15-17
+## 8° incontro - 03/01/2022 15:30-17:30
 - Grafi
 
 ## Gara Olimpiadi Informatica - 08/02/2022 11-12:30
