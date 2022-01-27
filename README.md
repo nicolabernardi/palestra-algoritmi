@@ -66,11 +66,12 @@ In tal caso, potete anche mandarmi una mail (nicola.bernardi-2@studenti.unitn.it
 - Memoization
 
 ## 7° incontro - 27/01/2022 15:30-17:30
-- [Slides](PalestraAlgo7.pdf) (da caricare dopo l'incontro)
+- [Slides](PalestraAlgo7.pdf)
 - Grafi
 - Esercizio [Piano di studi](https://training.olinfo.it/#/task/luiss_piano/statement)
 
 ## 8° incontro - 03/01/2022 15:30-17:30
+- [Slides](PalestraAlgo8.pdf) (da caricare dopo l'incontro)
 - Esercizio [Grafi qualcosa](https://training.olinfo.it/#/task/discesa/statement)
 
 ## Gara Olimpiadi Informatica - 08/02/2022 11-12:30
