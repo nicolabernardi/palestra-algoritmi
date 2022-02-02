@@ -70,7 +70,7 @@ In tal caso, potete anche mandarmi una mail (nicola.bernardi-2@studenti.unitn.it
 - Grafi
 - Esercizio [Piano di studi](https://training.olinfo.it/#/task/luiss_piano/statement)
 
-## 8° incontro - 03/01/2022 15:30-17:30
+## 8° incontro - 03/02/2022 15:30-17:30
 - [Slides](PalestraAlgo8.pdf) (da caricare dopo l'incontro)
 - Esercizio [Waterslide](https://training.olinfo.it/#/task/ois_waterslide/statement)
 
