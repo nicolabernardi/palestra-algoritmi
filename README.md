@@ -3,7 +3,7 @@
 Materiale utilizzato per "Palestra di Algoritmi", corso base II, tenuto tra novembre 2021 e febbraio 2022 con gli studenti del Liceo Scientifico "Galileo Galilei" di Trento, che comprende:
 - slide di ogni incontro
 - soluzioni di ogni esercizio (nella cartella [soluzioni](soluzioni))
-- file di esempio per [I/O su file in C++](io-file.cpp)
+- file di esempio per [I/O su file in C++](i-o-file.cpp)
 
 ## Soluzioni
 In base agli esercizi visti, vengono caricate anche le soluzioni, nella relativa cartella.
