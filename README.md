@@ -71,7 +71,8 @@ In tal caso, potete anche mandarmi una mail (nicola.bernardi-2@studenti.unitn.it
 - Esercizio [Piano di studi](https://training.olinfo.it/#/task/luiss_piano/statement)
 
 ## 8° incontro - 03/02/2022 15:30-17:30
-- [Slides](PalestraAlgo8.pdf) (da caricare dopo l'incontro)
+- [Slides](PalestraAlgo8.pdf)
+- Esercizio [Piano di studi](https://training.olinfo.it/#/task/luiss_piano/statement)
 - Esercizio [Waterslide](https://training.olinfo.it/#/task/ois_waterslide/statement)
 
 ## Gara Olimpiadi Informatica - 08/02/2022 11-12:30
